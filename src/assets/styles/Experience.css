@@ -1,0 +1,23 @@
+.experience {
+    padding: 2rem;
+    background-color: #fafafa;
+  }
+  
+  .job {
+    margin-bottom: 2rem;
+  }
+  
+  .job h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .job ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .job ul li {
+    margin-bottom: 0.75rem;
+  }
+  

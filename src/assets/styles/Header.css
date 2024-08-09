@@ -1,0 +1,29 @@
+.header {
+  background-color: #282c34;
+  padding: 1rem;
+  color: white;
+  text-align: center;
+}
+
+.header ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.header ul li {
+  margin: 0 1rem;
+}
+
+.header ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.header ul li a:hover {
+  text-decoration: underline;
+}
